@@ -3,10 +3,10 @@ A high-fidelity analog preamplifier designed using NPN transistors (BC547/2N2222
 ## 🔊 Audio Demonstration
 
 ### 1. Input Signal (Low Volume)
-[▶️ Listen](audio_samples/input.wav)
+[▶️ Listen](Audio_Samples/input.wav)
 
 ### 2. Amplified Signal (Clean Output)
-[▶️ Listen](audio_samples/amplified.wav)
+[▶️ Listen](Audio_Samples/amplified.wav)
 
 ### 3. Distorted Signal (Clipped Output)
-[▶️ Listen](audio_samples/distorted.wav)
+[▶️ Listen](Audio_Samples/distorted.wav)
